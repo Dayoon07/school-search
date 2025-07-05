@@ -10,7 +10,7 @@
 없음
 
 ## 기능
-```
+```js
 function search() {
     const searchText = document.getElementById("text").value.trim().toLowerCase();
     if (!allSchools.length) {
